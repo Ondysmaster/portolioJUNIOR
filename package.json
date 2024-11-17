@@ -6,6 +6,7 @@
 		"name": "Eddie O'Connor",
 		"email": "eddie.oconnor3@gmail.com",
 		"url": "https://tbd.com"
+		
 	},
 	"license": "MIT",
 	"dependencies": {
@@ -54,4 +55,3 @@
 		"tabWidth": 4
 	}
 }
-//kokoloko 
