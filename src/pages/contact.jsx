@@ -12,14 +12,13 @@ const Contact = () => {
 
     const codedDescription = (
         <span>
-            I'm happy to jump on a video or phone call to brainstorm coding or or non-coding passion projects, especially 
-            ones I mentioned in the About page! Send me an email at eddie.oconnor3@gmail.com or connect with me on the below socials.
+            Pokud máte jakékoliv dotazy nebo byste chtěli navázat spolupráci, neváhejte mě kontaktovat na e-mailu: ondra.janik24@gmail.com. Rád se s vámi spojím!
         </span>
     )
 
     const codedTitle = (
         <span>
-            Please get in touch!
+            Kontaktujte mě!
         </span>
     )
 

@@ -13,20 +13,18 @@ const Footer = () => {
 							<Link to="/">Home</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/about">About</Link>
+							<Link to="/about">O mě</Link>
 						</li>
+
 						<li className="footer-nav-link-item">
-							<Link to="/projects">Projects</Link>
-						</li>
-						<li className="footer-nav-link-item">
-							<Link to="/contact">Contact</Link>
+							<Link to="/contact">Kontakt</Link>
 						</li>
 					</ul>
 				</div>
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2024 Eddie O'Connor
+						ondra.janik24@gmail.com
 					</div>
 				</div>
 			</div>
